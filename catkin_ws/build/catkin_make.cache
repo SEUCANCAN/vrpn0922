@@ -1,0 +1,2 @@
+autolabor_keyboard_control:vrpn_client_ros
+-DCATKIN_DEVEL_PREFIX=/home/seu/vrpn/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/seu/vrpn/catkin_ws/install -G Unix Makefiles
